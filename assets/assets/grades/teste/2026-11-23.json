@@ -1,0 +1,74 @@
+{
+  "id": 22,
+  "date": "2026-11-23",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "segunda",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Sai da lâmpada e concede três desejos"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "O planeta vermelho"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Medula ___, doada para transplante"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Nasceu no mesmo parto que o irmão"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Tiram dez e colecionam quadrinhos"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Espetáculo cantado do Theatro Municipal"
+      }
+    ]
+  },
+  "solutionHash": "288386b397ca8eaeca0e3789acf59b3651d1f9995e2237216e3c1077c056edcc"
+}

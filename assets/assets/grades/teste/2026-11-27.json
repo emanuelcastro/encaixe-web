@@ -1,0 +1,85 @@
+{
+  "id": 26,
+  "date": "2026-11-27",
+  "size": 5,
+  "pattern": "cheia",
+  "difficulty": "sexta",
+  "blocks": [],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Lava antes de sair de casa"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "clue": "O que o incendiário faz com o fogo"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Vai na grelha e às vezes é de sol"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "clue": "Punhal de filme de pirata"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Partes do sapato que gastam no asfalto"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Caíram na cabeça de Newton, segundo a lenda"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "clue": "Amarrado, como um nó cego"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Setor barato do antigo Maracanã"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "clue": "Fruta ou parte da camisa"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "O corretor vende metros quadrados delas"
+      }
+    ]
+  },
+  "solutionHash": "98d4f17528d5398774a970b461957205630744c0dc3b4d2b2abcb7b76c0290be"
+}

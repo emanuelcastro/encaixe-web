@@ -1,0 +1,74 @@
+{
+  "id": 15,
+  "date": "2026-11-16",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "segunda",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Vira farinha, que vira pão"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Sete, na casa da Branca de Neve"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Moeda do plano de 1994, no plural"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Pular a cerca, no namoro"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Tem prioridade na fila do banco"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "O cachorro enterra no quintal"
+      }
+    ]
+  },
+  "solutionHash": "eb30f6b148b37c9a2b4118056093f2f6878b98d055e0b20665d610b6fd744529"
+}

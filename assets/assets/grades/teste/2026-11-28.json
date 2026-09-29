@@ -1,0 +1,74 @@
+{
+  "id": 27,
+  "date": "2026-11-28",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "sabado",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "\"Esqueci o ___\": frase clássica de e-mail"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Abanador de mão no calor"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Rodadas na quadrilha junina"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Livro de mapas, ou titã que segura o céu"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Esporte de neve que brasileiro pratica em Bariloche"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Tintas do pintor clássico, ou da fritura"
+      }
+    ]
+  },
+  "solutionHash": "6200512fcc247e6a99550b033ef9a55e25c5a2f5fed700932344e62d22aecc3f"
+}

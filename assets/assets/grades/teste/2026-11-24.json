@@ -1,0 +1,110 @@
+{
+  "id": 23,
+  "date": "2026-11-24",
+  "size": 5,
+  "pattern": "escada",
+  "difficulty": "terca",
+  "blocks": [
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "Barulho de explosão no gibi"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "clue": "Cada coisa da lista"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Fica vermelho no cruzamento"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "clue": "Terreno à venda no condomínio"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "clue": "Pelé era chamado assim"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "O público pede no fim do show"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "clue": "Serve para alguma coisa"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Criança, para o juiz"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "clue": "Chá gelado vendido na praia do Rio"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "clue": "Sai do Congresso para o Diário Oficial"
+      }
+    ]
+  },
+  "solutionHash": "3a3d8083822a52fd31b4bb73a332d03c1af2962b60d5bd9f84e6e184e24abbfe"
+}

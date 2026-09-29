@@ -1,0 +1,74 @@
+{
+  "id": 19,
+  "date": "2026-11-20",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "sexta",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "A primeira refeição da vida, sem prato nem talher"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Minhocas, para quem espera o peixe"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Assim fica a camisa depois da pelada"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Os fins não justificam, diz o ditado"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Fio de cabelo que ganha cor no salão"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "O que o fugitivo tenta não deixar"
+      }
+    ]
+  },
+  "solutionHash": "0a6f52536dccec3d709911870fd324dbe746f377ed4582649e38809cabc6d1ef"
+}

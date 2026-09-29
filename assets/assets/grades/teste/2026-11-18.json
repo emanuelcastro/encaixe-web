@@ -1,0 +1,102 @@
+{
+  "id": 17,
+  "date": "2026-11-18",
+  "size": 5,
+  "pattern": "cantos",
+  "difficulty": "quarta",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "clue": "Segura o boleto na porta da geladeira"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "clue": "Fruta que deixa a mão roxa"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Quem cuida do pet, no jeito novo de falar"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "clue": "Falta na segunda de manhã"
+      },
+      {
+        "number": 8,
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "clue": "Parente do avestruz que corre no cerrado"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "clue": "Assim fica quem já teve catapora"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Revolta a bordo do navio"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "clue": "O café passado na hora espalha pela casa"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "clue": "Registro da reunião de condomínio que ninguém lê"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "clue": "Tem na roda da bicicleta e nos óculos"
+      }
+    ]
+  },
+  "solutionHash": "45a7db2488cad357c9db0cb18808e7da3b1357b1fae4445f85cad179a9cd19b1"
+}

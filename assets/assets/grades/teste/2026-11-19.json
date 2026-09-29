@@ -1,0 +1,74 @@
+{
+  "id": 18,
+  "date": "2026-11-19",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "quinta",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Assim é o que nem precisava ser dito"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Fazer valer na marra"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Shrek e Fiona, por exemplo"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Ferrugem, para o químico"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Sai apitando da panela de pressão"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Naipe dos losangos"
+      }
+    ]
+  },
+  "solutionHash": "03a010e64c7c7693e04b74d0e4d1582f81c574b27e88bd8bd8bdbeb59f12ab59"
+}

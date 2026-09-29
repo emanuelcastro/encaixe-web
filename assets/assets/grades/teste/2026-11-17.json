@@ -1,0 +1,74 @@
+{
+  "id": 16,
+  "date": "2026-11-17",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "terca",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Dez nas mãos e dez nos pés"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Bebê, no colo da vovó"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Oitavas de final, por exemplo"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "A fada leva e deixa uma moeda"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Assim é a neblina que fecha o aeroporto"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Nasceu no morro e desfila na Sapucaí"
+      }
+    ]
+  },
+  "solutionHash": "d1fb943b2c466942eac8f59ed90e50db16d39b56840b5d070a760d1e49e00f5b"
+}
