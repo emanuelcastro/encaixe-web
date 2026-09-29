@@ -1,0 +1,74 @@
+{
+  "id": 8,
+  "date": "2026-11-09",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "segunda",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Acordo selado com aperto de mão"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "O Noel de dezembro"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Machucado que tira o jogador do campeonato"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Folha do caderno"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Pratos, talheres e ___"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Melhor do que bom"
+      }
+    ]
+  },
+  "solutionHash": "c15c2a7aa6270b47457fc68480619ba9041d5bffc073ee0ae987b3fd97ca4915"
+}

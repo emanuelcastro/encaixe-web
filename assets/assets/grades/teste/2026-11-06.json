@@ -1,0 +1,110 @@
+{
+  "id": 5,
+  "date": "2026-11-06",
+  "size": 5,
+  "pattern": "duplo",
+  "difficulty": "sexta",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "clue": "Quebrada no Natal, e não é a dieta"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Bate forte depois do almoço de domingo"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Barulho que atrapalha até a conversa"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "clue": "Vai na cuia do chimarrão"
+      },
+      {
+        "number": 7,
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "clue": "Alívio em três letras"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Chega atrasada e ninguém reclama"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "clue": "A torcida faz na arquibancada; o mar faz na praia"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "clue": "Lugar onde a jaula é a atração"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "O esporte de Gabriel Medina"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "clue": "Senta no banco, mas não é passageiro"
+      }
+    ]
+  },
+  "solutionHash": "31d3742ec764d9433b775fbd5c014398ad3fbefe2370c64838547a6e75f311e6"
+}

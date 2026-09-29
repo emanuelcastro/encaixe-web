@@ -1,0 +1,102 @@
+{
+  "id": 6,
+  "date": "2026-11-07",
+  "size": 5,
+  "pattern": "cantos",
+  "difficulty": "sabado",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "clue": "Verde, na bandeira, é uma"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "clue": "O que a polícia faz com o suspeito"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Nota máxima na avaliação do aplicativo"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "clue": "Assim são as sobremesas cheias de creme"
+      },
+      {
+        "number": 8,
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "clue": "Tem ressaca sem ter bebido"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "clue": "Tecido brilhante de vestido de festa"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Loja onde se vê melhor depois da compra"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "clue": "Trabalho de quem está no mesmo barco"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "clue": "Tem de cabeça e de cotovelo"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "clue": "Primas dos sapos"
+      }
+    ]
+  },
+  "solutionHash": "3e93041f05e146d0d3fd28daae19a79523b191b0fcd2e375fc2059d8535efa0c"
+}

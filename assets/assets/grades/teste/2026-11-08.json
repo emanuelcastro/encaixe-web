@@ -1,0 +1,74 @@
+{
+  "id": 7,
+  "date": "2026-11-08",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "domingo",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Venda beneficente de coisas usadas"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Tem ponta de um lado e às vezes borracha do outro"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Transporte que tem turbulência"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Aparece no pé com sapato novo"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Fecha a mala e às vezes emperra"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Onde ficam nariz, boca e olhos"
+      }
+    ]
+  },
+  "solutionHash": "ad6b610d4020cbb2b856d9199d666eab60f1958e6c5a137c13b6e4fde7d799f0"
+}

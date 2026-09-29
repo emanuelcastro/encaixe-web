@@ -1,0 +1,110 @@
+{
+  "id": 9,
+  "date": "2026-11-10",
+  "size": 5,
+  "pattern": "duplo",
+  "difficulty": "terca",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "clue": "Família grande, como uma tribo"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "\"Para as\", falado rapidinho"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "De cabelo vermelho"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "clue": "Filha dos mesmos pais que você"
+      },
+      {
+        "number": 7,
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "clue": "Homenageada no segundo domingo de maio"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Assunto do programa policial"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "clue": "Sai do vulcão"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "clue": "Tem no avião e no passarinho"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Água ___, sem nada misturado"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "clue": "Órgão que filtra o sangue"
+      }
+    ]
+  },
+  "solutionHash": "f612e9cccbef8f70b9543a96a0af70d0817e938daba359cc4b24df4a2b9d3d3f"
+}

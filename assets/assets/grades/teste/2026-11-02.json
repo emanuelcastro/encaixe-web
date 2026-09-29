@@ -1,0 +1,110 @@
+{
+  "id": 1,
+  "date": "2026-11-02",
+  "size": 5,
+  "pattern": "escada",
+  "difficulty": "segunda",
+  "blocks": [
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "Talento natural, como o de quem canta bem"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "clue": "Têm penas e bico"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Flores com espinhos"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "clue": "Falta de chuva no sertão"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "clue": "Estrela que ilumina o dia"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "Oferecer um presente"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "clue": "A galinha põe todo dia"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "O ano tem doze"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "clue": "Embalagem do pão francês na padaria"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "clue": "Tempero grosso do churrasco"
+      }
+    ]
+  },
+  "solutionHash": "d84097602578c78a63f0d871205f365e6f76083254900a1b8dcf2e320721d087"
+}

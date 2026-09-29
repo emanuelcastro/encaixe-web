@@ -1,0 +1,102 @@
+{
+  "id": 3,
+  "date": "2026-11-04",
+  "size": 5,
+  "pattern": "cantos",
+  "difficulty": "quarta",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 3,
+        "clue": "Onde o happy hour começa e não tem hora pra acabar"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 5,
+        "clue": "Grupo que canta sem instrumento nenhum: grupo ___"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Anda em falta em muito discurso de campanha"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "length": 5,
+        "clue": "Pardal de estrada que flagra quem corre"
+      },
+      {
+        "number": 8,
+        "row": 4,
+        "col": 1,
+        "length": 3,
+        "clue": "A ___: só os dois, sem mais ninguém"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "length": 5,
+        "clue": "Calçado de peão de rodeio"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Assim é o limão chupado sem açúcar"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "length": 5,
+        "clue": "Poodle e labrador são; o vira-lata caramelo, só no coração"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 3,
+        "clue": "O que o torcedor faz com o replay, várias vezes"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "length": 3,
+        "clue": "Doce ___"
+      }
+    ]
+  },
+  "solutionHash": "705f6b669787135697ecd79ab2bc611d2f11f02d43ff136f553d201a1e60defd"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 2,
+  "date": "2026-11-03",
+  "size": 5,
+  "pattern": "duplo",
+  "difficulty": "terca",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "clue": "Contrário de ruim"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Sobe e desce no litoral"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Pingos de chuva"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "clue": "Trabalha na novela das nove"
+      },
+      {
+        "number": 7,
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "clue": "Tudo o que se ouve"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Maquiagem para os lábios"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "clue": "Rezar"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "clue": "Novembro é um"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Veículo de duas rodas do entregador"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "clue": "O botijão da cozinha guarda"
+      }
+    ]
+  },
+  "solutionHash": "432230952c6a20f80b385cb249b565b74b8138327f9e0d508ee61512bb7e3e90"
+}

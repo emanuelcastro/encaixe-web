@@ -1,0 +1,110 @@
+{
+  "id": 12,
+  "date": "2026-11-13",
+  "size": 5,
+  "pattern": "duplo",
+  "difficulty": "sexta",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "clue": "Deixa o cabelo do jogador em pé"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Cardápio de restaurante chique"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Isto que você está lendo é uma"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "clue": "\"___ o exposto\", diz o juiz"
+      },
+      {
+        "number": 7,
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "clue": "O de Janeiro tem até carnaval"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Um tchau com a mão"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "clue": "\"___ querido\", no velório"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "clue": "Tem fases, mas não é novela"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Tamanho da saia que a avó reprova"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "clue": "Sapato não se compra sozinho, só em ___"
+      }
+    ]
+  },
+  "solutionHash": "56335005cd4f7d40f4a6e021469decb8bbae067402127070b52edf53733b2a12"
+}

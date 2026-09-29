@@ -1,0 +1,74 @@
+{
+  "id": 10,
+  "date": "2026-11-11",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "quarta",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Assim são as horas de quem chega de madrugada"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Ao ___: em volta"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "Sobem e descem na Bolsa"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Companhia que vende passagem e perde mala"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Domingo à tarde sem nada pra fazer"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Humanos ou extraterrestres"
+      }
+    ]
+  },
+  "solutionHash": "e7eb94cfe20e627219f9cdd1c40b8203f275cc98216bd0c05da24cbd5f15dbc9"
+}

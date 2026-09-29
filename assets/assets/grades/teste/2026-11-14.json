@@ -1,0 +1,74 @@
+{
+  "id": 13,
+  "date": "2026-11-14",
+  "size": 5,
+  "pattern": "xadrez",
+  "difficulty": "sabado",
+  "blocks": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Acebolados no PF"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Coisas da lista de compras"
+      },
+      {
+        "number": 5,
+        "row": 4,
+        "col": 0,
+        "length": 5,
+        "clue": "O que um ombro amigo oferece"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "clue": "Vento leve do fim de tarde na praia"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Pedal do meio no carro manual"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 5,
+        "clue": "Filme de terror dá; soluço, dizem que cura"
+      }
+    ]
+  },
+  "solutionHash": "060781b7b0c5cd1f04fbdd85a7de1e0c54c10e0eb1b7e373f1d3e84305fd6875"
+}

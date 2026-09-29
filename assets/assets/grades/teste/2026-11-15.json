@@ -1,0 +1,110 @@
+{
+  "id": 14,
+  "date": "2026-11-15",
+  "size": 5,
+  "pattern": "duplo",
+  "difficulty": "domingo",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 3,
+        "clue": "Bebida das cinco, na Inglaterra"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Gás das placas luminosas"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "O planeta onde você está"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 0,
+        "length": 4,
+        "clue": "O barco de Noé"
+      },
+      {
+        "number": 7,
+        "row": 4,
+        "col": 0,
+        "length": 3,
+        "clue": "Passagem só de ___, sem volta"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Separa o quintal do vizinho"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "length": 4,
+        "clue": "Tem sessenta minutos"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "length": 3,
+        "clue": "Plutão virou planeta ___ em 2006"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "length": 4,
+        "clue": "Tira dez e sabe tudo de videogame"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "length": 3,
+        "clue": "\"___, gostei!\" (tá aí)"
+      }
+    ]
+  },
+  "solutionHash": "34c39127680da70d1f3af876188000a840590240f0cfec73dff60d612b7b57e3"
+}

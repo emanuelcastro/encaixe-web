@@ -1,0 +1,110 @@
+{
+  "id": 4,
+  "date": "2026-11-05",
+  "size": 5,
+  "pattern": "escada",
+  "difficulty": "quinta",
+  "blocks": [
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      1
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "Grito de criança que vai ganhar sorvete"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "clue": "Disputada no estacionamento do shopping em dezembro"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "length": 5,
+        "clue": "Maria Joaquina, em Carrossel"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "length": 4,
+        "clue": "Jardim de Adão e Eva"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "length": 3,
+        "clue": "Primeira palavra ao atender o telefone"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "clue": "\"Uma ___!\": resposta de quem não acredita"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "length": 4,
+        "clue": "Dança de O Lago dos Cisnes"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "clue": "Assim é a voz da soprano"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 3,
+        "length": 4,
+        "clue": "Vai no dedo depois do \"sim\""
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "length": 3,
+        "clue": "O Réveillon marca a virada dele"
+      }
+    ]
+  },
+  "solutionHash": "b86b3db4e633df24d4e96fcf29d6214fd58e1b78a149b50cf0e462fb045c1862"
+}
