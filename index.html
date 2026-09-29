@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <base href="/encaixe-web/">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Uma cruzadinha pequena por dia, a mesma para todo o Brasil.">
+  <meta name="theme-color" content="#F6F1E7">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Encaixe">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Encaixe: Cruzadinha Diária</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    html, body { margin: 0; height: 100%; background: #F6F1E7; }
+    #carregando {
+      position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+      font: 700 32px Georgia, 'Times New Roman', serif; letter-spacing: -0.5px; color: #1C1B19;
+    }
+  </style>
+</head>
+<body>
+  <!-- Tela de carregamento leve (seção 5): some quando o app desenha o primeiro quadro. -->
+  <div id="carregando">Encaixe</div>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
