@@ -48,13 +48,24 @@
       text-align: center; max-width: 280px; opacity: 0; animation: aparecer .6s ease 4s forwards;
     }
     @keyframes aparecer { to { opacity: 1; } }
-    /* Modo escuro do aparelho: mesmas cores da Paleta.escura (lib/tema.dart). */
+    /* Modo escuro (do aparelho ou escolhido no jogo): cores da Paleta.escura (lib/tema.dart). */
     @media (prefers-color-scheme: dark) {
-      html, body { background: #161513; }
-      #carregando { color: #F1ECE2; }
-      #carregando .lento { color: #A8A196; }
+      html:not(.claro), html:not(.claro) body { background: #161513; }
+      html:not(.claro) #carregando { color: #F1ECE2; }
+      html:not(.claro) #carregando .lento { color: #A8A196; }
     }
+    html.escuro, html.escuro body { background: #161513; }
+    html.escuro #carregando { color: #F1ECE2; }
+    html.escuro #carregando .lento { color: #A8A196; }
   </style>
+  <script>
+    // Aparência escolhida no jogo (guardada pelo shared_preferences como "flutter.aparencia"),
+    // para a tela de carregamento já abrir na cor certa.
+    try {
+      var a = JSON.parse(localStorage.getItem('flutter.aparencia') || 'null');
+      if (a === 'escuro' || a === 'claro') document.documentElement.classList.add(a);
+    } catch (e) {}
+  </script>
 </head>
 <body>
   <!-- Tela de carregamento leve (seção 5): some quando o app desenha o primeiro quadro. -->
