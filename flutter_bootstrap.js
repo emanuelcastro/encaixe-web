@@ -42,9 +42,9 @@ _flutter.buildConfig = {"engineRevision":"af7e796e161ae0bb1ff0758c71a7105418bd9d
 
 
 // A tela de carregamento fica pelo menos o tempo da animação do logo mais uma pausa com
-// o logo pronto (2,8 s desde a abertura), a não ser que o aparelho peça menos movimento.
+// o logo pronto (3,8 s desde a abertura), a não ser que o aparelho peça menos movimento.
 const inicio = performance.now();
-const tempoMinimo = matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 2800;
+const tempoMinimo = matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 3800;
 
 _flutter.loader.load({
   onEntrypointLoaded: async function (engineInitializer) {
