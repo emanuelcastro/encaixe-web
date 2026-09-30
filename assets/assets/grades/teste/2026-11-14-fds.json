@@ -1,0 +1,174 @@
+{
+  "id": 4,
+  "date": "2026-11-14",
+  "size": 7,
+  "pattern": "moinho7b",
+  "difficulty": "fimdesemana",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      6,
+      6
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "clue": "Qualifica atitudes desprezíveis, no plural"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "clue": "Não precisa de apresentação"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "clue": "Mulher que monta bem"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "clue": "Instrumento que Lisa Simpson toca"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "clue": "___ a mesa (arrumou para a refeição)"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "clue": "Casa que lança livros"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "clue": "Fruta que dá em espinheiro"
+      },
+      {
+        "number": 14,
+        "row": 6,
+        "col": 1,
+        "length": 3,
+        "clue": "Parece bom: '___ bem'"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "clue": "Soprano e baixo são tipos dela"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "clue": "Material branco e leve de maquete"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "clue": "Trilha que embala o filme"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "clue": "É só uma, dizem nos momentos ruins"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "clue": "Têm lugar no coração"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "clue": "Teto que não dá para ultrapassar"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 6,
+        "length": 4,
+        "clue": "Dão liberdade a quem as tem"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "clue": "Ficar à ___ é vadiar"
+      }
+    ]
+  },
+  "solutionHash": "9e44b489405274810889c45565016ba4c4fcfaf9d43050f96123e0694aa6101b",
+  "displayWordsCifradas": "+FkF5j2K3q1cxIEonkUYqzW02Y8ODpCpfI80eXxnFXqxPGONOwr3EMminPetL8h0EI+VXFL/QYpCrQBucQhQxjhh83BmfZAuqC+roQ0x6PHq/VUkIBsYlmrVX6T4P0XXDGbxeGKZ5CehHs1rrJNhMkCw+/cnXi7804ZrDBQWT7FrX4sEq1MHauPTVKF8Ig==",
+  "edition": "fds"
+}

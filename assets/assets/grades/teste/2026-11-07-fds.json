@@ -1,0 +1,174 @@
+{
+  "id": 3,
+  "date": "2026-11-07",
+  "size": 7,
+  "pattern": "moinho7b",
+  "difficulty": "fimdesemana",
+  "blocks": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      6,
+      6
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "clue": "Sombra portátil do boné"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 6,
+        "clue": "Tinham carinho por alguém, no passado"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "length": 7,
+        "clue": "Público do ECA"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "length": 3,
+        "clue": "Ponto de conexão entre pessoas"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 4,
+        "length": 3,
+        "clue": "Móvel onde a vovó guarda lembranças"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 0,
+        "length": 7,
+        "clue": "Pessoa que fala pelos cotovelos"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 1,
+        "length": 6,
+        "clue": "Dar origem a confusão"
+      },
+      {
+        "number": 14,
+        "row": 6,
+        "col": 1,
+        "length": 3,
+        "clue": "Vem antes de 'bolas' na reclamação"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "length": 3,
+        "clue": "Guarda a receita que passa de geração"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "length": 6,
+        "clue": "Papai Noel tem de sobra"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 5,
+        "length": 6,
+        "clue": "Sombra que paira sobre alguém"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "length": 4,
+        "clue": "O 'sim' dos fiéis no fim da reza"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "length": 6,
+        "clue": "Subproduto escuro e grudento da cana"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "length": 6,
+        "clue": "Passar da memória para o papel"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 6,
+        "length": 4,
+        "clue": "Trabalhar pesado faz isso"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 3,
+        "length": 3,
+        "clue": "Não tem teto, só asfalto"
+      }
+    ]
+  },
+  "solutionHash": "58fc06239008427da40b8e560732e7a9b37ce6e13b63e1ddbb62d797c70df649",
+  "displayWordsCifradas": "PurmG9E3ioHxYWJQcA0glqjefLaUy8wuoaygIoMhvtZcmXGWF+soA8P4LSv7tocWq8QcBT1Bax/jogsApbxiaNnqkyhz7V9UeUgWVqmni/x3RI4h6UOuifYd+maPAudB3NLBdSmHaeySaz0rMoczcinSxxDetEeQPCrr2r7/djlMxf8C7aYDDU9XQh90RwXeYQ==",
+  "edition": "fds"
+}
