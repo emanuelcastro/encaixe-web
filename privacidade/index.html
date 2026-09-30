@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacidade do Encaixe</title>
+  <meta name="description" content="Que dados o Encaixe: Cruzadinha Diária guarda, para quê, e como apagar.">
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <style>
+    @font-face { font-family: Figtree; font-weight: 400; src: url(../assets/assets/fontes/Figtree-Regular.ttf); }
+    @font-face { font-family: Figtree; font-weight: 700; src: url(../assets/assets/fontes/Figtree-Bold.ttf); }
+    @font-face { font-family: Fraunces; font-weight: 700; src: url(../assets/assets/fontes/Fraunces-Bold.ttf); }
+
+    :root {
+      --fundo: #F6F1E7; --tinta: #1C1B19; --secundario: #5A5650;
+      --superficie: #FFFFFF; --marca: #1F5F8B; --amarelo: #F2B632; --borda: #DDD5C4;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --fundo: #161513; --tinta: #F1ECE2; --secundario: #A8A196;
+        --superficie: #2B2925; --marca: #7DB4DE; --borda: #34312C;
+      }
+    }
+    :root[data-theme="dark"] {
+      --fundo: #161513; --tinta: #F1ECE2; --secundario: #A8A196;
+      --superficie: #2B2925; --marca: #7DB4DE; --borda: #34312C;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--fundo); color: var(--tinta);
+      font: 17px/1.6 Figtree, system-ui, sans-serif;
+    }
+    main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+    a { color: var(--marca); }
+    .logo {
+      font: 700 34px/1 Fraunces, Georgia, serif; text-decoration: none; color: var(--tinta);
+    }
+    .logo span { background: var(--amarelo); color: #1C1B19; padding: 0 2px; border-radius: 3px; }
+    h1 { font: 700 30px/1.2 Fraunces, Georgia, serif; margin: 32px 0 4px; }
+    h2 { font-size: 20px; margin: 36px 0 8px; }
+    .data { color: var(--secundario); margin: 0 0 24px; }
+    .resumo {
+      background: var(--superficie); border: 1px solid var(--borda);
+      border-radius: 12px; padding: 16px 20px;
+    }
+    .resumo ul { margin: 0; padding-left: 20px; }
+    li { margin: 4px 0; }
+    footer { margin-top: 48px; color: var(--secundario); font-size: 15px; }
+  </style>
+  <script>
+    // Mesma escolha de aparência do jogo (claro, escuro ou do sistema).
+    try {
+      var a = JSON.parse(localStorage.getItem('flutter.aparencia') || 'null');
+      if (a === 'claro') document.documentElement.dataset.theme = 'light';
+      if (a === 'escuro') document.documentElement.dataset.theme = 'dark';
+    } catch (e) {}
+  </script>
+</head>
+<body>
+<main>
+  <a class="logo" href="../">Encai<span>x</span>e</a>
+
+  <h1>Privacidade</h1>
+  <p class="data">Última atualização: 30 de setembro de 2026</p>
+
+  <p>O Encaixe: Cruzadinha Diária (site e aplicativos para iPhone, iPad e Android) é um jogo da VeDigitalHub. Esta página explica, sem rodeios, que dados o jogo guarda, para quê, e como apagar.</p>
+
+  <div class="resumo">
+    <ul>
+      <li>Para jogar, não precisa de cadastro. Seu progresso fica no seu aparelho.</li>
+      <li>O jogo conta quantas pessoas abrem, começam e terminam a grade, sem saber quem são.</li>
+      <li>A conta é opcional e serve só para guardar seu histórico.</li>
+      <li>Não há anúncios. Não vendemos dados e não rastreamos você em outros apps ou sites.</li>
+    </ul>
+  </div>
+
+  <h2>O que fica no seu aparelho</h2>
+  <p>O jogo guarda no próprio aparelho (no navegador, no caso do site) o progresso das grades recentes, seus resultados e estatísticas, e suas preferências: aparência clara ou escura, horário do lembrete e se você já viu as instruções. Esses dados não saem do aparelho, a não ser que você entre com uma conta (veja abaixo). Apagar os dados do app ou do site apaga tudo isso.</p>
+
+  <h2>Estatísticas de uso</h2>
+  <p>Para saber se o jogo está funcionando e quantas pessoas jogam, o Encaixe registra quatro acontecimentos por dia: abriu a grade, começou, terminou (com o tempo) e compartilhou. Cada registro leva só isto: a data da grade, o tipo de aparelho (celular, tablet ou computador), o sistema (web, Android ou iOS) e um código aleatório criado no seu aparelho, que serve para não contar a mesma pessoa duas vezes.</p>
+  <p>Esse código não tem ligação com seu nome, e-mail, telefone ou conta. Não usamos cookies, identificador de publicidade nem ferramentas de análise de terceiros.</p>
+
+  <h2>Conta (opcional)</h2>
+  <p>Se você escolher entrar com Google ou com Apple, o jogo passa a guardar seus resultados (data, número da grade e tempo) na sua conta, para você não perder o histórico ao trocar de aparelho. Para isso, recebemos do Google ou da Apple um identificador da conta, seu e-mail e, se você permitir, seu nome. Com a Apple, você pode escolher esconder o e-mail. Esses dados servem só para o login e para guardar seus resultados. Não mandamos e-mails e não mostramos seus dados para outros jogadores.</p>
+
+  <h2>Lembrete diário (apps)</h2>
+  <p>Se você ligar o lembrete, o aviso é agendado no seu próprio aparelho, no horário que você escolher. Nenhum dado é enviado para isso. Dá para desligar nas estatísticas do jogo ou nos ajustes do aparelho.</p>
+
+  <h2>Onde os dados ficam</h2>
+  <ul>
+    <li><strong>Google Firebase:</strong> guarda as grades, as estatísticas de uso e os resultados de quem tem conta, em servidores em São Paulo. O login (Firebase Authentication) fica nos servidores do Google, que podem estar fora do Brasil.</li>
+    <li><strong>GitHub Pages:</strong> hospeda o site. Como qualquer servidor, recebe o endereço IP de quem acessa.</li>
+    <li><strong>Google e Apple:</strong> fazem o login, quando você escolhe entrar, seguindo as políticas de privacidade deles.</li>
+  </ul>
+  <p>Não compartilhamos dados com mais ninguém, a não ser por obrigação legal.</p>
+
+  <h2 id="excluir-conta">Como excluir a conta e os dados</h2>
+  <ul>
+    <li><strong>No jogo:</strong> abra as Estatísticas e toque em "Excluir conta". A conta e os resultados guardados nela são apagados na hora.</li>
+    <li><strong>Por e-mail:</strong> escreva para <a href="mailto:vedigitalhub@gmail.com?subject=Excluir%20conta%20do%20Encaixe">vedigitalhub@gmail.com</a> com o assunto "Excluir conta do Encaixe", a partir do e-mail da conta. Apagamos em até 15 dias.</li>
+    <li><strong>No aparelho:</strong> apagar os dados do app ou do site remove o progresso e as estatísticas locais.</li>
+  </ul>
+
+  <h2>Seus direitos</h2>
+  <p>Pela Lei Geral de Proteção de Dados (LGPD), você pode pedir para saber quais dados seus temos, corrigi-los, apagá-los ou recebê-los em cópia, e pode retirar seu consentimento a qualquer momento. É só escrever para <a href="mailto:vedigitalhub@gmail.com">vedigitalhub@gmail.com</a>.</p>
+
+  <h2>Crianças</h2>
+  <p>O conteúdo do Encaixe é para toda a família. O jogo não pede dados para jogar e não tem anúncios. A conta é opcional e, para menores de 18 anos, deve ser criada com o acompanhamento de um responsável.</p>
+
+  <h2>Mudanças</h2>
+  <p>Se esta política mudar, a data no topo será atualizada. Mudanças importantes também serão avisadas no jogo.</p>
+
+  <footer>
+    Encaixe: Cruzadinha Diária · VeDigitalHub · <a href="mailto:vedigitalhub@gmail.com">vedigitalhub@gmail.com</a><br>
+    <a href="../">Voltar para o jogo</a>
+  </footer>
+</main>
+</body>
+</html>
