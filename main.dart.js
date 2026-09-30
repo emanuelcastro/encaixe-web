@@ -38062,7 +38062,7 @@ A.qj.prototype={
 J(a){var s,r,q=this,p=q.c,o=A.ws(A.jT(p.b)),n=q.f,m=n.a
 p=A.c(["Encaixe n\xba "+p.a,"Tempo: "+A.rE(q.e)],t.s)
 if(m>0){s=m===1?"dia seguido":"dias seguidos"
-p.push(""+m+" "+s)}p.push("encaixe.app")
+p.push(""+m+" "+s)}p.push("https://emanuelcastro.github.io/encaixe-web/")
 r=B.b.b_(p,"\n")
 return A.ahc(A.pO(!0,A.lU(new A.eA(B.h0,A.F9(new A.a5C(q,n.f.i(0,o),o,n.e,r)),null),null,null),!0))}}
 A.a5C.prototype={
