@@ -46768,7 +46768,7 @@ n=l?"Encaixe \xb7 Desafio do fim de semana n\xba "+n:"Encaixe n\xba "+n
 n=A.b([n,"Tempo: "+A.mv(p.e)],t.s)
 if(j>0){if(l)s=j===1?"fim de semana seguido":"fins de semana seguidos"
 else s=j===1?"dia seguido":"dias seguidos"
-n.push(""+j+" "+s)}n.push("https://emanuelcastro.github.io/encaixe-web/")
+n.push(""+j+" "+s)}n.push("https://jogoencaixe.com.br/")
 r=B.b.bP(n,"\n")
 q=l?k.d:k.f.h(0,m)
 return A.aH5(A.vD(!0,A.fH(new A.eA(B.oy,A.ng(new A.aqo(p,l,o,q,m,k.e,A.b3d(p),r)),null),null,null),!0))}}
@@ -46947,7 +46947,7 @@ A.aqq.prototype={
 $1(a){return a==null?"\u2014":A.mv(a)},
 $S:546}
 A.aqp.prototype={
-$0(){return A.aIJ(A.eo("https://emanuelcastro.github.io/encaixe-web/privacidade/",0,null),B.Pk)},
+$0(){return A.aIJ(A.eo("https://jogoencaixe.com.br/privacidade/",0,null),B.Pk)},
 $S:0}
 A.H6.prototype={
 K(a){var s=this,r=null,q=A.cC(a),p=s.f,o=p?13:16,n=A.be(r,r,p?q.c:q.b,r,r,r,r,r,r,r,B.ev,o,r,r,B.dD,r,r,!0,r,r,r,r,r,r,r,r)
