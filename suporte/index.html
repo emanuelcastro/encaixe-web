@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ajuda do Encaixe</title>
+  <meta name="description" content="Dúvidas frequentes e contato do Encaixe: Cruzadinha Diária.">
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <style>
+    @font-face { font-family: Figtree; font-weight: 400; src: url(../assets/assets/fontes/Figtree-Regular.ttf); }
+    @font-face { font-family: Figtree; font-weight: 700; src: url(../assets/assets/fontes/Figtree-Bold.ttf); }
+    @font-face { font-family: Fraunces; font-weight: 700; src: url(../assets/assets/fontes/Fraunces-Bold.ttf); }
+
+    :root {
+      --fundo: #F6F1E7; --tinta: #1C1B19; --secundario: #5A5650;
+      --superficie: #FFFFFF; --marca: #1F5F8B; --amarelo: #F2B632; --borda: #DDD5C4;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --fundo: #161513; --tinta: #F1ECE2; --secundario: #A8A196;
+        --superficie: #2B2925; --marca: #7DB4DE; --borda: #34312C;
+      }
+    }
+    :root[data-theme="dark"] {
+      --fundo: #161513; --tinta: #F1ECE2; --secundario: #A8A196;
+      --superficie: #2B2925; --marca: #7DB4DE; --borda: #34312C;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--fundo); color: var(--tinta);
+      font: 17px/1.6 Figtree, system-ui, sans-serif;
+    }
+    main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+    a { color: var(--marca); }
+    .logo {
+      font: 700 34px/1 Fraunces, Georgia, serif; text-decoration: none; color: var(--tinta);
+    }
+    .logo span { background: var(--amarelo); color: #1C1B19; padding: 0 2px; border-radius: 3px; }
+    h1 { font: 700 30px/1.2 Fraunces, Georgia, serif; margin: 32px 0 4px; }
+    h2 { font-size: 20px; margin: 36px 0 8px; }
+    .data { color: var(--secundario); margin: 0 0 24px; }
+    .resumo {
+      background: var(--superficie); border: 1px solid var(--borda);
+      border-radius: 12px; padding: 16px 20px;
+    }
+    .resumo ul { margin: 0; padding-left: 20px; }
+    li { margin: 4px 0; }
+    footer { margin-top: 48px; color: var(--secundario); font-size: 15px; }
+  </style>
+  <script>
+    // Mesma escolha de aparência do jogo (claro, escuro ou do sistema).
+    try {
+      var a = JSON.parse(localStorage.getItem('flutter.aparencia') || 'null');
+      if (a === 'claro') document.documentElement.dataset.theme = 'light';
+      if (a === 'escuro') document.documentElement.dataset.theme = 'dark';
+    } catch (e) {}
+  </script>
+</head>
+<body>
+<main>
+  <a class="logo" href="../">Encai<span>x</span>e</a>
+
+  <h1>Ajuda</h1>
+  <p class="data">Dúvidas frequentes sobre o Encaixe: Cruzadinha Diária</p>
+
+  <div class="resumo">
+    <p style="margin:0">Não achou a resposta? Escreva para <a href="mailto:vedigitalhub@gmail.com?subject=Encaixe">vedigitalhub@gmail.com</a>. Respondemos em até 3 dias úteis.</p>
+  </div>
+
+  <h2>Como se joga?</h2>
+  <p>Toque numa casa e digite. A pista da palavra selecionada aparece acima do teclado. Para alternar entre horizontal e vertical, toque de novo na mesma casa ou use a tecla de setas à esquerda do Z (no computador, a barra de espaço). Acentos e cedilha não contam: MARÉ se escreve MARE. A grade termina quando todas as casas estão certas, e o tempo para sozinho.</p>
+
+  <h2>Quando sai a grade nova?</h2>
+  <p>Todo dia à meia-noite, pelo horário de Brasília. A grade é a mesma para todo o Brasil. No fim de semana, além da grade do dia, sai o Desafio do fim de semana, uma grade maior que fica aberta de sábado a domingo.</p>
+
+  <h2>A grade não carrega</h2>
+  <p>Confira a conexão com a internet e toque em "Tentar de novo". Logo depois da meia-noite, se o relógio do aparelho estiver adiantado, a grade nova pode demorar alguns minutos para aparecer.</p>
+
+  <h2>Troquei de aparelho e perdi minhas estatísticas</h2>
+  <p>Sem conta, as estatísticas ficam só no aparelho. Para guardá-las, abra as Estatísticas e entre com Google ou Apple: os resultados vão para a sua conta e voltam em qualquer aparelho em que você entrar com ela.</p>
+
+  <h2>Como ligo ou desligo o lembrete diário?</h2>
+  <p>Nos apps, abra as Estatísticas e use a opção "Lembrete diário" para ligar, desligar ou mudar o horário. Também dá para desligar nos ajustes de notificações do aparelho.</p>
+
+  <h2>Como excluo minha conta?</h2>
+  <p>Abra as Estatísticas e toque em "Excluir conta". Os detalhes estão na <a href="../privacidade/#excluir-conta">política de privacidade</a>.</p>
+
+  <h2>Achei uma pista errada</h2>
+  <p>Conte para a gente em <a href="mailto:vedigitalhub@gmail.com?subject=Pista%20do%20Encaixe">vedigitalhub@gmail.com</a>, com o número da grade. Toda pista é revisada, mas sempre pode escapar alguma.</p>
+
+  <footer>
+    Encaixe: Cruzadinha Diária · VeDigitalHub · <a href="mailto:vedigitalhub@gmail.com">vedigitalhub@gmail.com</a><br>
+    <a href="../privacidade/">Privacidade</a> · <a href="../">Voltar para o jogo</a>
+  </footer>
+</main>
+</body>
+</html>
