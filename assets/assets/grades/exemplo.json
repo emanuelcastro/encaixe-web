@@ -29,7 +29,8 @@
         "row": 0,
         "col": 0,
         "length": 5,
-        "clue": "Instrumento de dez cordas da música caipira"
+        "clue": "Instrumento de dez cordas da música caipira",
+        "extra": "Tem dez cordas e vive na roda de moda"
       },
       {
         "number": 4,
@@ -43,7 +44,8 @@
         "row": 4,
         "col": 0,
         "length": 5,
-        "clue": "Subida para quem usa cadeira de rodas"
+        "clue": "Subida para quem usa cadeira de rodas",
+        "extra": "Plano inclinado para acessibilidade"
       }
     ],
     "down": [
@@ -52,24 +54,28 @@
         "row": 0,
         "col": 0,
         "length": 5,
-        "clue": "Sai do bico da chaleira"
+        "clue": "Sai do bico da chaleira",
+        "extra": "Água no estado gasoso quando ferve"
       },
       {
         "number": 2,
         "row": 0,
         "col": 2,
         "length": 5,
-        "clue": "Metade do lema da bandeira"
+        "clue": "Metade do lema da bandeira",
+        "extra": "Faz par com o progresso"
       },
       {
         "number": 3,
         "row": 0,
         "col": 4,
         "length": 5,
-        "clue": "Tem de sobra em Jericoacoara"
+        "clue": "Tem de sobra em Jericoacoara",
+        "extra": "Pó fino nas dunas e praias"
       }
     ]
   },
   "solutionHash": "335395462602be7102eb628f5c3903ea22be2a1bdfb4c6dc20c38d0cd26141f8",
+  "help": "c32StogGxPMhhQ7WZCWru/SoIiH8mZCemg==",
   "displayWordsCifradas": "M10HVFbJ5ULFDu9Jj2FrXbONixT81LGnaYPoO+DUt1dbIKNzZ6yPZskTqr4tajh/Zg8rFYDW"
 }

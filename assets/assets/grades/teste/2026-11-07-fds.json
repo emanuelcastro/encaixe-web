@@ -57,56 +57,64 @@
         "row": 0,
         "col": 3,
         "length": 3,
-        "clue": "Sombra portátil do boné"
+        "clue": "Sombra portátil do boné",
+        "extra": "Protege o rosto de quem usa boné"
       },
       {
         "number": 4,
         "row": 1,
         "col": 0,
         "length": 6,
-        "clue": "Tinham carinho por alguém, no passado"
+        "clue": "Tinham carinho por alguém, no passado",
+        "extra": "Gostavam muito, antigamente"
       },
       {
         "number": 7,
         "row": 2,
         "col": 0,
         "length": 7,
-        "clue": "Público do ECA"
+        "clue": "Público do ECA",
+        "extra": "Tamanhos P e PP, por exemplo"
       },
       {
         "number": 9,
         "row": 3,
         "col": 0,
         "length": 3,
-        "clue": "Ponto de conexão entre pessoas"
+        "clue": "Ponto de conexão entre pessoas",
+        "extra": "Argola de corrente"
       },
       {
         "number": 10,
         "row": 3,
         "col": 4,
         "length": 3,
-        "clue": "Móvel onde a vovó guarda lembranças"
+        "clue": "Móvel onde a vovó guarda lembranças",
+        "extra": "Caixa de tesouro"
       },
       {
         "number": 11,
         "row": 4,
         "col": 0,
         "length": 7,
-        "clue": "Pessoa que fala pelos cotovelos"
+        "clue": "Pessoa que fala pelos cotovelos",
+        "extra": "Instrumento de madeira que faz barulho"
       },
       {
         "number": 13,
         "row": 5,
         "col": 1,
         "length": 6,
-        "clue": "Dar origem a confusão"
+        "clue": "Dar origem a confusão",
+        "extra": "Provocar um efeito"
       },
       {
         "number": 14,
         "row": 6,
         "col": 1,
         "length": 3,
-        "clue": "Vem antes de 'bolas' na reclamação"
+        "clue": "Vem antes de 'bolas' na reclamação",
+        "extra": "Interjeição de impaciência"
       }
     ],
     "down": [
@@ -115,60 +123,69 @@
         "row": 0,
         "col": 3,
         "length": 3,
-        "clue": "Guarda a receita que passa de geração"
+        "clue": "Guarda a receita que passa de geração",
+        "extra": "Mãe da sua mãe"
       },
       {
         "number": 2,
         "row": 0,
         "col": 4,
         "length": 6,
-        "clue": "Papai Noel tem de sobra"
+        "clue": "Papai Noel tem de sobra",
+        "extra": "Pelos que crescem no rosto"
       },
       {
         "number": 3,
         "row": 0,
         "col": 5,
         "length": 6,
-        "clue": "Sombra que paira sobre alguém"
+        "clue": "Sombra que paira sobre alguém",
+        "extra": "Promessa de castigo"
       },
       {
         "number": 4,
         "row": 1,
         "col": 0,
         "length": 4,
-        "clue": "O 'sim' dos fiéis no fim da reza"
+        "clue": "O 'sim' dos fiéis no fim da reza",
+        "extra": "Palavra dita ao fim da oração"
       },
       {
         "number": 5,
         "row": 1,
         "col": 1,
         "length": 6,
-        "clue": "Subproduto escuro e grudento da cana"
+        "clue": "Subproduto escuro e grudento da cana",
+        "extra": "Xarope doce da cana"
       },
       {
         "number": 6,
         "row": 1,
         "col": 2,
         "length": 6,
-        "clue": "Passar da memória para o papel"
+        "clue": "Passar da memória para o papel",
+        "extra": "Registrar por escrito"
       },
       {
         "number": 8,
         "row": 2,
         "col": 6,
         "length": 4,
-        "clue": "Trabalhar pesado faz isso"
+        "clue": "Trabalhar pesado faz isso",
+        "extra": "Perder líquido no calor"
       },
       {
         "number": 12,
         "row": 4,
         "col": 3,
         "length": 3,
-        "clue": "Não tem teto, só asfalto"
+        "clue": "Não tem teto, só asfalto",
+        "extra": "Onde passam carros e ônibus"
       }
     ]
   },
   "solutionHash": "58fc06239008427da40b8e560732e7a9b37ce6e13b63e1ddbb62d797c70df649",
   "displayWordsCifradas": "PurmG9E3ioHxYWJQcA0glqjefLaUy8wuoaygIoMhvtZcmXGWF+soA8P4LSv7tocWq8QcBT1Bax/jogsApbxiaNnqkyhz7V9UeUgWVqmni/x3RI4h6UOuifYd+maPAudB3NLBdSmHaeySaz0rMoczcinSxxDetEeQPCrr2r7/djlMxf8C7aYDDU9XQh90RwXeYQ==",
-  "edition": "fds"
+  "edition": "fds",
+  "help": "SOlXKVIQStu1dq+7EKeafnGafuNmj3UGN3kklEACPyeHBnXxlcl76Lm1rSdc1liiiw=="
 }
