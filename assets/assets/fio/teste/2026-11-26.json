@@ -1,0 +1,36 @@
+{
+  "id": 25,
+  "date": "2026-11-26",
+  "size": 6,
+  "numbers": {
+    "33": 1,
+    "34": 2,
+    "27": 3,
+    "11": 4,
+    "16": 5,
+    "9": 6,
+    "6": 7,
+    "20": 8,
+    "25": 9
+  },
+  "walls": [
+    [
+      32,
+      33
+    ],
+    [
+      9,
+      15
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      18,
+      24
+    ]
+  ],
+  "level": "dificil",
+  "answer": "tpWNFU1CIVeiJngYxBNlZ7dzIYcuw/Zojtxkj8spfDJ6pXy93zUqHVsafhaj7mMsQkT3tMcMUNpMo9wSzUmaM1fzCjYlReeTG25O6exxfYJ21doJEiaMcSppefK+O6i9ug=="
+}

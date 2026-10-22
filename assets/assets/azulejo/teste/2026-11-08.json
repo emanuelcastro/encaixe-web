@@ -1,0 +1,110 @@
+{
+  "id": 7,
+  "date": "2026-11-08",
+  "cols": 4,
+  "rows": 5,
+  "tiles": [
+    {
+      "fundo": "terracota",
+      "centro": "folha/azul",
+      "borda": "ondas/verde"
+    },
+    {
+      "fundo": "amarelo",
+      "centro": "flor/terracota",
+      "borda": "pontilhado/rosa"
+    },
+    {
+      "fundo": "turquesa",
+      "centro": "sol/turquesa",
+      "borda": "ondas/verde"
+    },
+    {
+      "fundo": "rosa",
+      "centro": "sol/amarelo",
+      "borda": "ondas/azul"
+    },
+    {
+      "fundo": "turquesa",
+      "centro": "circulo/turquesa",
+      "borda": "moldura/terracota"
+    },
+    {
+      "fundo": "verde",
+      "centro": "losango/terracota",
+      "borda": "faixa/rosa"
+    },
+    {
+      "fundo": "cinza",
+      "centro": "losango/terracota",
+      "borda": "faixa/azul"
+    },
+    {
+      "fundo": "azul",
+      "centro": "flor/verde",
+      "borda": "triangulos/rosa"
+    },
+    {
+      "fundo": "lilas",
+      "centro": "flor/amarelo",
+      "borda": "pontilhado/rosa"
+    },
+    {
+      "fundo": "mostarda",
+      "centro": "folha/azul",
+      "borda": "triangulos/rosa"
+    },
+    {
+      "fundo": "lilas",
+      "centro": "folha/amarelo",
+      "borda": "moldura/verde"
+    },
+    {
+      "fundo": "azul",
+      "centro": "flor/amarelo",
+      "borda": "moldura/terracota"
+    },
+    {
+      "fundo": "mostarda",
+      "centro": "flor/verde",
+      "borda": "faixa/rosa"
+    },
+    {
+      "fundo": "terracota",
+      "centro": "folha/amarelo",
+      "borda": "pontilhado/verde"
+    },
+    {
+      "fundo": "cinza",
+      "centro": "flor/terracota",
+      "borda": "cantos/turquesa"
+    },
+    {
+      "fundo": "amarelo",
+      "centro": "flor/turquesa",
+      "borda": "ondas/azul"
+    },
+    {
+      "fundo": "rosa",
+      "centro": "sol/turquesa",
+      "borda": "pontilhado/verde"
+    },
+    {
+      "fundo": "branco",
+      "centro": "sol/amarelo",
+      "borda": "moldura/verde"
+    },
+    {
+      "fundo": "verde",
+      "centro": "flor/turquesa",
+      "borda": "cantos/turquesa"
+    },
+    {
+      "fundo": "branco",
+      "centro": "circulo/turquesa",
+      "borda": "faixa/azul"
+    }
+  ],
+  "level": "facil",
+  "answer": "seHg3jxamAkBCVspMZjR4q6kvVtSbA14uTBw92tQ5IUPOJeWapeGP2XDjZV/SjuW40s6JPwxqtAqsEYgKCaJaio7Q6/NsdlTDqE4mzLW2a6lWsi1HCtvZaVdLPHv6sEoX8qAACdjdMWmp9kH0iN3pfZLIsQWlw7mLFHNSgYwSbKYPHm4SijMhBu1kz6pb6+BQeQjHovCMUiTSuT+VdF0TZFzKVChH8TA9ETVMVhwbf0/a6yTNhk/B7opsVlkbppKtd+MoQCH5Cy8zJR/p91tZ3sb"
+}

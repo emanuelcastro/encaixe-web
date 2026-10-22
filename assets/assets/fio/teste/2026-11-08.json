@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "date": "2026-11-08",
+  "size": 7,
+  "numbers": {
+    "18": 1,
+    "40": 2,
+    "22": 3,
+    "24": 4,
+    "37": 5,
+    "36": 6,
+    "8": 7,
+    "34": 8
+  },
+  "walls": [
+    [
+      11,
+      18
+    ],
+    [
+      39,
+      46
+    ],
+    [
+      31,
+      38
+    ],
+    [
+      17,
+      24
+    ]
+  ],
+  "level": "dificil",
+  "answer": "9nd15PAfx9VvujCh1cxiDtXbwhdHkhm4snE8LxmQUImnhXdu5X8onnaj5OO7CalRSewr9n/lYwp7jASyLwRpnOjAOFVrNo6o2S+hRSz74tHUBsdf7TDGdDahBjl/1Ww4L9OtMuh3mfM+z12kxyP3ly0jQczp+C+VmntGXZbKkicUZkz637cKOQ=="
+}

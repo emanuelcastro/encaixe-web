@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "date": "2026-11-12",
+  "size": 6,
+  "numbers": {
+    "33": 1,
+    "26": 2,
+    "22": 3,
+    "17": 4,
+    "3": 5,
+    "20": 6,
+    "2": 7,
+    "18": 8
+  },
+  "walls": [
+    [
+      11,
+      17
+    ]
+  ],
+  "level": "medio",
+  "answer": "ZkAbW/kdBlA0A7ocZUG7i6Zrt6bJkcTjxGZBlTzE9Zwtdm/KPXE11HcDKSXHuYSlXHWysI1KXs6+YX7EbWfmDtvMa1aKA9HG50Ssep2Xgwyhk1jUUMBwTa2auOubudDvuQ=="
+}
